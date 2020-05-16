@@ -5,7 +5,7 @@ Date: 2017-03-22
 Author: Julien MAIRAL for C++ multires code, with contribution
 	from Jean-Paul CHIEZE for interface to language R
     and Ghislain DURIF for the porting to R-3.x
-Maintainer:blank
+Maintainer: Daniel Kirsner<dkirsner@ucsc.edu>
 Description: The 'multires' blank
 License: GPL-3
 LazyLoad: yes
